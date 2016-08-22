@@ -1,6 +1,8 @@
 Autocopy
 ========
 
+This code is written by @jepio.
+
 Autocopy is a python script that periodically transfers data from a local folder to a remote location. It's primary design goal is moving files from Windows machines to Unix ones.
 
 Deployment
